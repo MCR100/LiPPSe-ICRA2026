@@ -1,0 +1,7 @@
+# Core numeric + plotting
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Point cloud processing / registration
+open3d>=0.16
